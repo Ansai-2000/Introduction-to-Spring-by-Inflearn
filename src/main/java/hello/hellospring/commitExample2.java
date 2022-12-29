@@ -1,4 +1,4 @@
 package hello.hellospring;
 
-public class commitExample {
+public class commitExample2 {
 }
